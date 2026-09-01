@@ -1,59 +1,39 @@
-# StormGPT - Stormwater Compliance Automation Engine
+# StormGPT — Legacy Repository
 
-## Overview
-StormGPT is a cutting-edge compliance and automation engine designed to revolutionize stormwater industry workflows by transforming complex regulatory tasks into efficient, accurate processes.
+**Source Status:** LEGACY  
+**StormAI Use:** REFERENCE ONLY
 
-## Quick Access
-- **ChatGPT GPT Version**: [StormGPT V2](https://chatgpt.com/g/g-68e6732142a88191af18b5a443d02095-stormgpt-v2)
+This repository contains earlier StormGPT development material.
 
-## Purpose
-Empower stormwater professionals by:
-- Reducing compliance task time from hours/days to minutes
-- Supporting regulators, QSDs, QSPs, engineers, and project managers
-- Ensuring accurate, defensible, and consistent outputs
+StormAI must not treat this repository as the current operating source for Stormwater Intelligence. It may be reviewed for development history, migration work, or comparison with earlier capabilities.
 
-## Comprehensive Input Handling
-StormGPT processes diverse input types:
-- Project Data (site maps, BMP inventory)
-- Regulatory Documents
-- Monitoring Spreadsheets
-- Site Condition Images
-- Agency Forms
+Current operating requirements are defined by ARCSEC and the official StormAI organization source map.
 
-## Authoritative Knowledge Base
-Integrated sources include:
-- EPA (NPDES)
-- CA State Water Board
-- Caltrans SWPPP Manual
-- Clean Water Act
-- CA Fish & Game Code
-- NOAA/NWS
+- [StormAI Source Map](https://github.com/stormwater-intelligence-LLC/.github/blob/main/STORMAI_SOURCE_MAP.md)
+- [ARCSEC 2.0](https://github.com/stormwater-intelligence-LLC/arcsec_protocols)
+
+## Earlier Purpose
+
+StormGPT was developed to support stormwater compliance research, document review, calculations, weather information, watershed analysis, and workflow automation.
+
+Earlier source material referenced:
+
+- EPA and NPDES materials
+- California State Water Resources Control Board materials
+- Caltrans stormwater manuals
+- Clean Water Act materials
+- NOAA / NWS
 - USGS
-- NASA GIBS
+- NASA data services
 
-## Advanced Capabilities
-- Document Parsing
-- Regulation Q&A
-- Mathematical Calculations
-- Weather Event Detection
-- Watershed Intelligence
-- Workflow Automation
+## Current Use
 
-## Output Formats
-- Regulatory Answers (Text, PDF)
-- Compliance Reports (PDF, DOCX)
-- Technical Calculations (CSV, XLSX, PDF)
-- Event Monitoring Logs
-- Automated Forms
+This repository is not an approved source for current StormAI operating instructions, regulatory conclusions, production workflows, or system permissions.
 
-## Technical Architecture
-Input → Knowledge → Process → Output Pipeline
+If material from this repository is reused, it must be reviewed against current controlling requirements, ARCSEC, and current approved Stormwater Intelligence procedures before production use.
 
 ## Developed By
-Daniel Guzman
-- Email: guzman.danield@outlook.com
-- LinkedIn: [Daniel Guzman](https://www.linkedin.com/in/daniel-guzman-857a66388/)
 
-## Acknowledgments
-- Federal Regulatory Agencies
-- Environmental Compliance Professionals
+Daniel Guzman  
+Stormwater Intelligence LLC  
+[www.stormintel.net](https://www.stormintel.net/)
